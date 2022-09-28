@@ -16,6 +16,9 @@ Equation to rotate the i value inside the matrix (each step involves a rotation 
 // Program main entry point
 //------------------------------------------------------------------------------------
 
+void foo() {
+  int val = 10;
+}
 int main(void)
 {
   // Initialization
